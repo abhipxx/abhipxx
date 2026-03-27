@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abhipsa 👋
 
-<!--
-**abhipxx/abhipxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pre-final year CSE student at VIT-AP University. I build full-stack web apps and enjoy solving problems.  
+Currently focused on placement prep and shipping side projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend** — React, JavaScript, HTML, CSS  
+**Backend** — Node.js, Express  
+**Database** — MongoDB  
+**Tools** — Git, Postman
+
+---
+
+## Projects
+
+**[StackMatch](https://github.com/abhipxx/StackMatch)**  
+A developer matching platform built with the MERN stack. Features JWT auth, a weighted matching algorithm, and Gemini AI integration.
+**[Deployed Link](https://stack-match-nine.vercel.app/)**
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/abhipsa-patnaik/) · [LeetCode](https://leetcode.com/u/abhi_pxxx/) 
