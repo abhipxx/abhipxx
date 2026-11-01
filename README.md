@@ -24,4 +24,4 @@ A developer matching platform built with the MERN stack. Features JWT auth, a we
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/abhipsa-patnaik/) · [LeetCode](https://leetcode.com/u/abhi_pxxx/) 
+[LinkedIn](https://www.linkedin.com/in/abhipsa-patnaik/)
