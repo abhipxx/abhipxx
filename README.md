@@ -1,6 +1,6 @@
 # Hi, I'm Abhipsa 👋
 
-Pre-final year CSE student at VIT-AP University. I build full-stack web apps and enjoy solving problems.  
+Final year CSE student at VIT-AP University. I build full-stack web apps and enjoy solving problems.  
 Currently focused on placement prep and shipping side projects.
 
 ---
